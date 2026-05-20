@@ -26,5 +26,5 @@ I like maths and programming. I may procrastinate everything till the heat death
 
 Connect with me here:
 
-- **GitHub**: [https://github.com/Vedansh-Sethi](https://github.com/Vedansh-Sethi)
-- **LinkedIn**: [https://linkedin.com/in/vedansh-sethi](https://linkedin.com/in/vedansh-sethi)
+- [**GitHub**](https://github.com/Vedansh-Sethi)
+- [**LinkedIn**](https://linkedin.com/in/vedansh-sethi)
