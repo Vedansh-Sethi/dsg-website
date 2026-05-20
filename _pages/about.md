@@ -255,6 +255,10 @@ layout: splash
   <img src="{{ site.baseurl }}/assets/images/members/y26/rishita_kandpal.jpg" alt="Rishita Kandpal" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
   <h3><a href="{{ site.baseurl }}/members/kandpal">Rishita Kandpal</a></h3>
 </div>
+      <div class="member-card">
+        <img src="{{ site.baseurl }}/assets/images/members/y26/parambrata.png" alt="Parambrata Sinha" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
+        <h3><a href="{{ site.baseurl }}/members/parambrata">Parambrata Sinha</a></h3>
+      </div>
     </div>
     <div class="member-card">
         <img src="{{ site.baseurl }}/assets/images/members/y26/VedanshSethi.png" alt="Vedansh Sethi" onerror="this.src='{{ site.baseurl }}/assets/images/placeholder.jpeg';">
