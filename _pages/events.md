@@ -257,12 +257,23 @@ permalink: /events/
 <h2 style="margin-top: 2rem; color: #007acc;">Internal IITR Collaborations</h2>
 <div class="event-grid">
   <!-- Add intra IITR event cards here -->
+
+<!-- Event 7: SRISHTI TECHNICAL EXHIBITIION 2026-->
+  <div class="event-card">
+    <img src="{{ site.baseurl }}/assets/images/events/srishti_DSG_2026.jpeg" alt="Srishti 2026 Collab">
+    <h3>DSG Showcase at Srishti: Leading Research and Live AI</h3>
+    <p>Srishti's Tech Exhibition for 2026 where we presented our research papers accepted at top tier conferences global conferences and did a live demonstration of our flagship and new projects.</p>
+    <div class="event-links">
+      <a href="https://www.instagram.com/p/DXKmMrFE1q6/?utm_source=ig_web_button_share_sheet" target="_blank">Details</a>
+
+  </div>
+  </div>
   
 <!-- Event 6: ECELL E-SUMMIT COLLAB 2026-->
   <div class="event-card">
     <img src="{{ site.baseurl }}/assets/images/events/Data_Forge.png" alt="E-Summit 2026 Collab">
     <h3>DATA FORGE:  E-Summit’26 x DSG</h3>
-    <p>A data-based hackathon where you analyse datasets and uncover patterns, for E-Summit'26 by E-Cell IITR in collaboration with us, hosted on Unstop for a 3 round competition.</p>
+    <p>A data-based hackathon where you analyse datasets and uncover patterns, for E-Summit'26 by E-Cell IITR in collaboration with us, hosted on Unstop for a 3 round competition.</p> 
     <div class="event-links">
       <a href="https://www.instagram.com/p/DTFRxnLE-z4/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">Details</a>
 
